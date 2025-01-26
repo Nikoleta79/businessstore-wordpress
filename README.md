@@ -46,7 +46,8 @@ It contains a homepage, contact page, about page.
 
 
 
-
+This project is for educational purposes only and does not represent a real business. The content, including images and text, is for demonstration and development purposes.
+All images  used in this project are sourced from external providers and do not belong to me. Their copyrights remain with their respective owners
 
 
 
