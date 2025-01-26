@@ -38,6 +38,14 @@ This repository contains the PHP code and configuration for a WordPress-based bu
 
 It contains a homepage, contact page, about page.
 
+![2025-01-2618-53-10online-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/37072476-10a0-4a2d-8a97-e86c2c4101ac)
+
+
+
+![2025-01-2618-55-06-ezgif com-crop](https://github.com/user-attachments/assets/f3660b84-36d3-4617-bb91-62ea93adcf6d)
+
+
+
 
 
 
