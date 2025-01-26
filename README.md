@@ -1,8 +1,9 @@
 
 # WordPress Business Store
 
+![2025-01-2618-51-46online-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/317152f4-c4e1-4794-9609-377457077c87)
 
-![Uploading 2025-01-2618-51-46online-video-cutter.com-ezgif.com-video-to-gif-converter.gif…]()
+
 
 This repository contains the PHP code and configuration for a WordPress-based business store website. The website serves as a consultation platform for local businesses, helping them connect with their customers and improve their online presence. The project utilizes various plugins and features to deliver a professional, secure, and user-friendly experience.
 
